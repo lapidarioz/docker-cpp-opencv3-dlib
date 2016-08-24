@@ -6,5 +6,5 @@ docker build -t cpp-opencv3-dlib .
 ```
 ## RUN
 ```
-docker run -ti -v $(pwd):/usr/app cpp-opencv3-dlib /bin/sh
+docker run -ti -v $(pwd):/usr/src/app cpp-opencv3-dlib /bin/sh
 ```
