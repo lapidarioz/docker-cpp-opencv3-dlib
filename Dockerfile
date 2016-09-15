@@ -1,4 +1,4 @@
-FROM philipz/opencv3_python2.7
+FROM kavolorn/opencv
 
 WORKDIR /usr/src/
 
